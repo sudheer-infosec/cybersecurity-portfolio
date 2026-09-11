@@ -171,20 +171,3 @@ Hands-on experiments for understanding networking and defensive security concept
 </p>
 
 ---
-
-# 🎯 Current Focus
-
-```text
-Cybersecurity
-     │
-     ├── Ethical Hacking
-     ├── Network Security
-     ├── SOC Operations
-     ├── Threat Detection
-     ├── Digital Forensics
-     ├── Linux
-     ├── Python Automation
-     └── Security Projects
-
-🛡️ Securing Systems. Building Skills. Creating Impact.
-</p> ```
