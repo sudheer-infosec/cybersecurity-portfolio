@@ -136,12 +136,19 @@ Hands-on experiments for understanding networking and defensive security concept
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudheer-infosec&theme=github_dark" alt="Sudheer GitHub Profile Details"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudheer-infosec&theme=github_dark"
+    alt="Sudheer GitHub Profile Details"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudheer-infosec&theme=github_dark" alt="Sudheer Most Commit Language"/>
-</p>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudheer-infosec&theme=github_dark"
+    alt="Sudheer Most Commit Language"
+    width="49%"
+  />
 
 ---
 
