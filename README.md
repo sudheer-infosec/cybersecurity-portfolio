@@ -185,49 +185,6 @@ Cybersecurity
      ├── Linux
      ├── Python Automation
      └── Security Projects
-🧠 Learning Philosophy
 
-Don't just watch tutorials.
-
-Build labs. Break things ethically. Analyze what happened. Fix it. Document it.
-
-My learning approach:
-
-Learn → Practice → Build → Document → Improve
-
-📚 What I'm Learning
-🔐 Cybersecurity Fundamentals
-🐧 Linux Administration
-🌐 Computer Networks
-🛡️ Defensive Security
-🔎 Ethical Hacking
-🚨 SOC Operations
-🕵️ Digital Forensics
-🐍 Python Automation
-☁️ Cloud Security
-🤖 AI + Cybersecurity
-🤝 Cybersecurity Mentoring
-
-I enjoy helping beginners understand cybersecurity concepts through:
-
-📖 Structured learning
-🧪 Practical labs
-🛠️ Security tools
-💡 Project-based learning
-🎯 Career guidance
-🐙 GitHub & portfolio development
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/singuru-sudheer-b4916b345"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/sudheer-infosec"> <img src="https://img.shields.io/badge/GitHub-sudheer--infosec-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-⚡ Security Mindset
-<p align="center">
-┌─────────────────────────────────────────────┐
-│                                             │
-│   🔍 THINK  →  🧪 TEST  →  🛡️ SECURE      │
-│                                             │
-│   Learn • Build • Analyze • Defend          │
-│                                             │
-└─────────────────────────────────────────────┘
-</p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/> </p> <p align="center">
 🛡️ Securing Systems. Building Skills. Creating Impact.
 </p> ```
