@@ -141,18 +141,15 @@ Hands-on experiments for understanding networking and defensive security concept
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sudheer-infosec&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer-infosec&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sudheer-infosec&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
 </p>
 
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer-infosec&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 # 🔥 GitHub Streak
 
 <p align="center">
