@@ -38,27 +38,21 @@ I enjoy learning how systems work, identifying security weaknesses, analyzing th
 # 🛡️ Cybersecurity Arsenal
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,vscode&perline=7" />
-
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,vscode&perline=7" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOC-00FF9C?style=for-the-badge&logo=shield&logoColor=black"/>
-<img src="https://img.shields.io/badge/Threat%20Detection-8A2BE2?style=for-the-badge&logo=target&logoColor=white"/>
-<img src="https://img.shields.io/badge/Digital%20Forensics-1E90FF?style=for-the-badge&logo=search&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOC-00FF9C?style=for-the-badge&logo=shield&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-8A2BE2?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital%20Forensics-1E90FF?style=for-the-badge&logo=search&logoColor=white"/>
 </p>
 
 ---
@@ -68,24 +62,22 @@ I enjoy learning how systems work, identifying security weaknesses, analyzing th
 ### Programming
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" />
 </p>
 
 ### Operating Systems & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,git,github,docker,vscode" />
 </p>
 
 ### Security
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Ethical%20Hacking-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/Penetration%20Testing-FF4B4B?style=for-the-badge&logo=target&logoColor=white"/>
-<img src="https://img.shields.io/badge/Network%20Security-0066FF?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Incident%20Response-FF8C00?style=for-the-badge&logo=opsgenie&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-00FF9C?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-FF4B4B?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network%20Security-0066FF?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-FF8C00?style=for-the-badge&logo=opsgenie&logoColor=white"/>
 </p>
 
 ---
@@ -141,24 +133,22 @@ Hands-on experiments for understanding networking and defensive security concept
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudheer-infosec&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudheer-infosec&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Sudheer's GitHub Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer-infosec&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer-infosec&layout=compact&theme=github_dark&hide_border=true" alt="Sudheer's Top Languages"/>
 </p>
 
-
+---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sudheer-infosec&theme=github-dark-blue&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=sudheer-infosec&theme=github-dark-blue&hide_border=true" alt="Sudheer's GitHub Streak"/>
 </p>
 
 ---
@@ -166,9 +156,11 @@ Hands-on experiments for understanding networking and defensive security concept
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/sudheer-infosec/sudheer-infosec/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudheer-infosec/sudheer-infosec/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudheer-infosec/sudheer-infosec/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/sudheer-infosec/sudheer-infosec/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  </picture>
 </p>
 
 ---
