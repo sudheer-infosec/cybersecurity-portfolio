@@ -62,7 +62,7 @@ I enjoy learning how systems work, identifying security weaknesses, analyzing th
 ### Programming
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
 </p>
 
 ### Operating Systems & Tools
