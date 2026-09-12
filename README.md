@@ -82,57 +82,6 @@ I enjoy learning how systems work, identifying security weaknesses, analyzing th
 
 ---
 
-# 🚀 Featured Projects
-
-### 🔎 Network Reconnaissance Toolkit
-
-A Python-based security toolkit designed for learning network reconnaissance concepts.
-
-**Focus:**
-- Network discovery
-- Port analysis
-- Service enumeration
-- Security reporting
-
----
-
-### 🛡️ SOC Threat Detection Lab
-
-A practical cybersecurity lab focused on understanding how security operations teams detect and investigate suspicious activity.
-
-**Focus:**
-- Log analysis
-- Threat detection
-- Incident investigation
-- Security monitoring
-
----
-
-### 🐍 Python Security Automation
-
-Security-focused Python scripts for automating repetitive cybersecurity tasks.
-
-**Focus:**
-- Automation
-- Log processing
-- Network utilities
-- Security analysis
-
----
-
-### 🌐 Network Security Lab
-
-Hands-on experiments for understanding networking and defensive security concepts.
-
-**Focus:**
-- TCP/IP
-- DNS
-- HTTP/HTTPS
-- Network traffic
-- Packet analysis
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
