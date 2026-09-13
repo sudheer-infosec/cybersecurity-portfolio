@@ -1,8 +1,7 @@
 # 🔍 Windows XP DFIR Investigation — Case LAB-2024-001
 
 > **Digital Forensics and Incident Response (DFIR) Portfolio Project**  
-> Analyst: [SINGURU SUDHEER](https://github.com/
-sudheer-infosec) | [LinkedIn](https://www.linkedin.com/in/singuru-sudheer-b4916b345) | Case: LAB-2024-001 | Classification: Educational / Unclassified
+> Analyst: [SINGURU SUDHEER](https://github.com/sudheer-infosec) | [LinkedIn](https://www.linkedin.com/in/singuru-sudheer-b4916b345) | Case: LAB-2024-001 | Classification: Educational / Unclassified
 
 ---
 
@@ -369,5 +368,5 @@ This project was conducted for educational purposes using publicly available for
 
 ---
 
-*Analyst: [Dhruvi Desai](https://github.com/sudheer-infosec) | [LinkedIn](https://www.linkedin.com/in/singuru-sudheer-b4916b345) | Case: LAB-2024-001 | Completed: May 2026*
+*Analyst: [SINGURU SUDHEER](https://github.com/sudheer-infosec) | [LinkedIn](https://www.linkedin.com/in/singuru-sudheer-b4916b345) | Case: LAB-2024-001 | Completed: May 2026*
 
