@@ -20,18 +20,104 @@
 
 Hi! I'm **Sudheer**, a cybersecurity-focused technologist passionate about:
 
-- 🛡️ Cybersecurity
-- 🔐 Ethical Hacking
-- 🌐 Network Security
-- 🕵️ Digital Forensics
-- 🚨 SOC & Threat Detection
-- 🐧 Linux & Security Tools
-- 🤖 Security Automation
-- 🐍 Python for Cybersecurity
+* 🛡️ Cybersecurity
+* 🔐 Ethical Hacking
+* 🌐 Network Security
+* 🕵️ Digital Forensics
+* 🚨 SOC & Threat Detection
+* 🐧 Linux & Security Tools
+* 🤖 Security Automation
+* 🐍 Python for Cybersecurity
 
 I enjoy learning how systems work, identifying security weaknesses, analyzing threats, and building practical security projects.
 
 > **My goal:** Learn deeply. Build practically. Secure responsibly.
+
+---
+
+# 🔥 Recently Updated Projects
+
+> My latest projects and active security work — newest work listed first.
+
+### 🛡️ Wazuh SOC Detection Lab
+
+**SOC | Threat Detection | SIEM | Suricata | Sysmon**
+
+A hands-on SOC detection environment focused on security monitoring, alert analysis, detection engineering, and incident investigation.
+
+📂 [Open Wazuh SOC Detection Lab](./wazuh-soc-detection-lab)
+
+---
+
+### 🦠 Zeus Malware Hunt Lab
+
+**Malware Analysis | Suricata | Splunk | Volatility | YARA**
+
+A malware-hunting and threat-analysis project combining network detection, log analysis, memory forensics, and YARA-based investigation.
+
+📂 [Open Zeus Malware Hunt Lab](./Cybersecurity-SOC/Zeus-Malware-Hunt-Lab)
+
+---
+
+### 🧠 Cyber Intelligence Toolkit
+
+**Cyber Intelligence | Investigation | Security Research**
+
+A practical cybersecurity intelligence toolkit focused on gathering, organizing, and analyzing security-related information.
+
+📂 [Open Cyber Intelligence Toolkit](./Cybersecurity-SOC/Cyber-Intelligence-Toolkit)
+
+---
+
+### 🔎 Digital Forensics Investigation Lab
+
+**Digital Forensics | Evidence Analysis | Investigation**
+
+A practical digital-forensics environment for investigating digital evidence and documenting forensic findings.
+
+📂 [Open Digital Forensics Investigation Lab](./Cyber-Crime-Digital-Forensics/Digital-Forensics-Investigation-Lab)
+
+---
+
+### 📱 Mobile Forensics Open-Source Investigation
+
+**Mobile Forensics | OSINT | Digital Investigation**
+
+A project focused on mobile-device investigation concepts and open-source digital investigation techniques.
+
+📂 [Open Mobile Forensics Investigation](./Cyber-Crime-Digital-Forensics/Mobile-Forensics-Open-Source-Investigation)
+
+---
+
+## 📂 Project Portfolio
+
+My projects are organized into focused cybersecurity categories:
+
+### 🏢 Company-Related Projects
+
+* [CustodyGuard](./Company-Related-Projects/CustodyGuard)
+* [Forensic Evidence Platform](./Company-Related-Projects/forensic-evidence-platform)
+
+### 🕵️ Cyber-Crime & Digital Forensics
+
+* [Android Digital Forensics](./Cyber-Crime-Digital-Forensics/Android-Digital-Forensics)
+* [Digital Evidence Toolkit](./Cyber-Crime-Digital-Forensics/Digital-Evidence-Toolkit)
+* [Digital Forensics Investigation Lab](./Cyber-Crime-Digital-Forensics/Digital-Forensics-Investigation-Lab)
+* [Mobile Forensics Open-Source Investigation](./Cyber-Crime-Digital-Forensics/Mobile-Forensics-Open-Source-Investigation)
+
+### 🚨 Cybersecurity & SOC
+
+* [Cyber Intelligence Toolkit](./Cybersecurity-SOC/Cyber-Intelligence-Toolkit)
+* [Zeus Malware Hunt Lab](./Cybersecurity-SOC/Zeus-Malware-Hunt-Lab)
+
+### 🔬 Security Research
+
+* [Security Research](./Security-Research/Security-Research)
+
+### 🛠️ Security Tools
+
+* [Timesketch](./Security-Tools/Timesketch)
+* [Volatility3](./Security-Tools/Volatility3)
 
 ---
 
@@ -98,13 +184,17 @@ I enjoy learning how systems work, identifying security weaknesses, analyzing th
     alt="Sudheer Most Commit Language"
     width="49%"
   />
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudheer-infosec&theme=github-dark-blue&hide_border=true" alt="Sudheer's GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=sudheer-infosec&theme=github-dark-blue&hide_border=true"
+    alt="Sudheer's GitHub Streak"
+  />
 </p>
 
 ---
@@ -113,10 +203,59 @@ I enjoy learning how systems work, identifying security weaknesses, analyzing th
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudheer-infosec/sudheer-infosec/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudheer-infosec/sudheer-infosec/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/sudheer-infosec/sudheer-infosec/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sudheer-infosec/sudheer-infosec/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sudheer-infosec/sudheer-infosec/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/sudheer-infosec/sudheer-infosec/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    >
   </picture>
 </p>
 
 ---
+
+# 🧠 Learning Philosophy
+
+> **Don't just watch tutorials. Build labs. Break things ethically. Analyze what happened. Fix it. Document it.**
+
+### My Learning Approach
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Document
+  ↓
+Improve
+```
+
+---
+
+# 🚀 Current Focus
+
+* 🛡️ SOC & Blue Team
+* 🚨 Threat Detection
+* 🔎 Digital Forensics
+* 🌐 Network Security
+* 🐧 Linux Security
+* 🐍 Python Security Automation
+* ☁️ Cloud Security
+* 🤖 AI + Cybersecurity
+* 📚 Continuous Learning
+
+---
+
+<p align="center">
+
+**Learning • Building • Securing**
+
+</p>
