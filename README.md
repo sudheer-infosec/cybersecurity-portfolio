@@ -1,4 +1,4 @@
-﻿# Singuru Sudheer â€” Cybersecurity Portfolio
+﻿# Singuru Sudheer Cybersecurity Portfolio
 
 A responsive dark cybersecurity portfolio for Singuru Sudheer, featuring SOC, DFIR, threat detection, cyber intelligence, security automation and practical project work.
 
