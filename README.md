@@ -488,22 +488,31 @@ Focused on building practical cybersecurity capability through security laborato
 </div>
 
 ---
-
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudheer-infosec&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=8B5CF6&icon_color=6366F1"/>
+<a href="https://github.com/sudheer-infosec">
+<img src="https://streak-stats.demolab.com?user=sudheer-infosec&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer-infosec&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6"/>
+<br><br>
 
-</div>
+<img src="https://img.shields.io/github/followers/sudheer-infosec?style=for-the-badge&label=GitHub%20Followers&color=6366F1&logo=github&logoColor=white" alt="GitHub Followers"/>
 
-<br>
+<img src="https://img.shields.io/github/stars/sudheer-infosec?style=for-the-badge&label=Repository%20Stars&color=7C3AED&logo=github&logoColor=white" alt="GitHub Stars"/>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sudheer-infosec&style=for-the-badge&color=4F46E5&label=Profile%20Views" alt="Profile Views"/>
 
-<img src="https://streak-stats.demolab.com?user=sudheer-infosec&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
+<br><br>
+
+<a href="https://github.com/sudheer-infosec?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+<a href="https://github.com/sudheer-infosec?tab=activity">
+<img src="https://img.shields.io/badge/Activity-View-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity"/>
+</a>
 
 </div>
 
@@ -513,7 +522,19 @@ Focused on building practical cybersecurity capability through security laborato
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sudheer-infosec&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<a href="https://github.com/sudheer-infosec">
+
+<img src="https://img.shields.io/badge/GitHub-Open%20Source%20%26%20Security%20Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
+
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SOC%20Labs-Wazuh%20%7C%20Suricata%20%7C%20Sysmon-7C3AED?style=for-the-badge&logo=linux&logoColor=white" alt="SOC Labs"/>
+
+<img src="https://img.shields.io/badge/DFIR-Forensics%20%7C%20Investigation-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="DFIR"/>
+
+<img src="https://img.shields.io/badge/Security%20Research-Threat%20Detection-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Security Research"/>
 
 </div>
 
@@ -523,9 +544,28 @@ Focused on building practical cybersecurity capability through security laborato
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheer-infosec&bg_color=0d1117&color=8b5cf6&line=6366f1&point=c4b5fd&area=true&hide_border=true"/>
+<a href="https://github.com/sudheer-infosec">
+
+<img src="https://img.shields.io/badge/View%20GitHub%20Contribution%20Activity-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contribution Activity"/>
+
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Building-Security%20Labs-7C3AED?style=for-the-badge" alt="Security Labs"/>
+
+<img src="https://img.shields.io/badge/Researching-Threat%20Detection-4F46E5?style=for-the-badge" alt="Threat Detection"/>
+
+<img src="https://img.shields.io/badge/Learning-DFIR%20%26%20SOC-312E81?style=for-the-badge" alt="DFIR and SOC"/>
+
+<br><br>
+
+<a href="https://github.com/sudheer-infosec?tab=overview&from=2026-01-01&to=2026-12-31">
+<img src="https://img.shields.io/badge/Contribution%20History-View%20on%20GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Contribution History"/>
+</a>
 
 </div>
+
 
 ---
 
