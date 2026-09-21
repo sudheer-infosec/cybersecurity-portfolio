@@ -1,152 +1,502 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Singuru Sudheer cybersecurity GitHub profile - dark" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2YzliNzRkNy1kYjRkLTRmMjQtYWE1YS0zMDA5MzFjNzljMTkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFO5RmSgUusdCwT2kN38jKMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplOGMzODc3Yi1jZDQ0LTRlYzMtYWRiNS1jN2Q3MTlkOWE1ODNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNogaC+UQ+ctABq0fZyWGCKmQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggJG5BV/3DkXI36HgR0jLJYIZG7C/mm/op5JUlG7zLcbykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaKiRdfKAe39BoEfG97W7Q1AAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCAttUY4/28NANzeNv3DXvgEvV9FliU452AK/KjXYp36mRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjkZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjZjOWI3NGQ3LWRiNGQtNGYyNC1hYTVhLTMwMDkzMWM3OWMxOS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjczNDJlZmNkLWQwMGMtNDQzOC05OTUzLWQ2ZGVkNWE2ZDFlZHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAkbkFX/cORcjfoeBHSMslghkbsL+ab+inklSUbvMtxvKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggv5lGiyohrR1cnJUeMg/f3DtfL7SJ1zusvrqD5JYlzUOiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggJT+PHDZJQCPvAIf/UCUndhJ2ypkbzhLYuktv+4ciDal0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJMpC2/QqfXenzBZLYlr/PNb9ggAf4bn9xpriGKvN63zV7MempZ5cNrdm8V2VKhuzPLOk9x3Lam2XTIGBqZfAjE=</c2pa:manifest></metadata>
+<div align="center">
 
-<defs>
-  <linearGradient id="accentD" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop offset="0%" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="8s" repeatCount="indefinite"/></stop>
-    <stop offset="50%" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="8s" repeatCount="indefinite"/></stop>
-    <stop offset="100%" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="8s" repeatCount="indefinite"/></stop>
-  </linearGradient>
-  <radialGradient id="glow1D"><stop offset="0%" stop-color="#22D3EE" stop-opacity=".32"/><stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
-  <radialGradient id="glow2D"><stop offset="0%" stop-color="#7C3AED" stop-opacity=".24"/><stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
-  <radialGradient id="glow3D"><stop offset="0%" stop-color="#10B981" stop-opacity=".18"/><stop offset="100%" stop-color="#10B981" stop-opacity="0"/></radialGradient>
-  <filter id="shadowD" x="-30%" y="-30%" width="160%" height="160%">
-    <feGaussianBlur stdDeviation="10" result="blur"/>
-    <feColorMatrix in="blur" type="matrix" values="0 0 0 0 .06 0 0 0 0 .10 0 0 0 0 .20 0 0 0 .55 0"/>
-    <feBlend in="SourceGraphic" mode="normal"/>
-  </filter>
-  <filter id="softGlowD" x="-60%" y="-60%" width="220%" height="220%">
-    <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
-  <filter id="noiseD">
-    <feTurbulence type="fractalNoise" baseFrequency=".75" numOctaves="2" seed="8"/>
-    <feColorMatrix type="saturate" values="0"/>
-    <feComponentTransfer><feFuncA type="table" tableValues="0 .035"/></feComponentTransfer>
-  </filter>
-  <clipPath id="clipD"><rect width="1180" height="610" rx="30"/></clipPath>
-</defs>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4F46E5,100:7C3AED&height=180&section=header&text=SINGURU%20SUDHEER&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=CYBERSECURITY%20%7C%20SOC%20%7C%20DFIR%20%7C%20ETHICAL%20HACKING&descAlignY=58&descSize=16" width="100%"/>
 
-<g clip-path="url(#clipD)">
-<rect width="1180" height="610" fill="#030712"/>
-<circle cx="120" cy="120" r="260" fill="url(#glow1D)"><animate attributeName="cx" values="120;210;120" dur="12s" repeatCount="indefinite"/></circle>
-<circle cx="1060" cy="470" r="300" fill="url(#glow2D)"><animate attributeName="cx" values="1060;980;1060" dur="14s" repeatCount="indefinite"/></circle>
-<circle cx="600" cy="560" r="220" fill="url(#glow3D)"><animate attributeName="cy" values="560;520;560" dur="10s" repeatCount="indefinite"/></circle>
+<br>
 
-<g opacity=".9">
-<circle cx="720" cy="80" r="2" fill="#22D3EE"><animate attributeName="cy" values="80;100;80" dur="4s" repeatCount="indefinite"/></circle>
-<circle cx="1020" cy="150" r="1.7" fill="#10B981"><animate attributeName="cy" values="150;175;150" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="680" cy="520" r="1.8" fill="#7C3AED"><animate attributeName="cx" values="680;700;680" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="1080" cy="320" r="1.5" fill="#22D3EE"><animate attributeName="cy" values="320;295;320" dur="3.8s" repeatCount="indefinite"/></circle>
-<circle cx="150" cy="480" r="1.6" fill="#10B981"><animate attributeName="cx" values="150;175;150" dur="6s" repeatCount="indefinite"/></circle>
-</g>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Cybersecurity+Student+%7C+Ethical+Hacker;SOC+Analyst+%7C+Threat+Detection;Digital+Forensics+%7C+Incident+Response;Security+Research+%7C+Cyber+Investigation;Learn+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Document+%E2%86%92+Improve" alt="Typing SVG"/>
 
-<rect x="24" y="24" width="1132" height="562" rx="30" fill="#0F172A" fill-opacity=".78" stroke="rgba(255,255,255,.10)" filter="url(#shadowD)"/>
+<br><br>
 
-<!-- LEFT: ASCII portrait terminal -->
-<g>
-<rect x="48" y="48" width="425" height="514" rx="22" fill="#030712" fill-opacity=".72" stroke="rgba(255,255,255,.10)"/>
-<circle cx="75" cy="73" r="5" fill="#7C3AED"/><circle cx="92" cy="73" r="5" fill="#22D3EE"/><circle cx="109" cy="73" r="5" fill="#10B981"/>
-<text x="130" y="78" font-family="monospace" font-size="12" fill="#94A3B8">~/sudheer/security</text>
-<line x1="48" y1="96" x2="473" y2="96" stroke="rgba(255,255,255,.08)"/>
+<img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-6366F1?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Specialization-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/India-Andhra%20Pradesh-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<g transform="translate(0,0)">
-  <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="6s" repeatCount="indefinite"/>
-  <g font-family="monospace" font-size="14" font-weight="700" fill="url(#accentD)" filter="url(#softGlowD)">
-    <text x="90" y="150" opacity="0">   .-''''-.<animate attributeName="opacity" values="0;1" begin="0.2s" dur=".4s" fill="freeze"/></text>
-    <text x="90" y="167" opacity="0"> .'  .--.  '.<animate attributeName="opacity" values="0;1" begin="0.5s" dur=".4s" fill="freeze"/></text>
-    <text x="90" y="184" opacity="0">/   /    \   \<animate attributeName="opacity" values="0;1" begin="0.8s" dur=".4s" fill="freeze"/></text>
-    <text x="90" y="201" opacity="0">;   ;      ;   ;<animate attributeName="opacity" values="0;1" begin="1.1s" dur=".4s" fill="freeze"/></text>
-    <text x="90" y="218" opacity="0">|   |  oo  |   |<animate attributeName="opacity" values="0;1" begin="1.4s" dur=".4s" fill="freeze"/></text>
-    <text x="90" y="235" opacity="0">;   ;      ;   ;<animate attributeName="opacity" values="0;1" begin="1.7s" dur=".4s" fill="freeze"/></text>
-    <text x="90" y="252" opacity="0"> \   \____/   /<animate attributeName="opacity" values="0;1" begin="2.0s" dur=".4s" fill="freeze"/></text>
-    <text x="90" y="269" opacity="0">  '.        .'<animate attributeName="opacity" values="0;1" begin="2.3s" dur=".4s" fill="freeze"/></text>
-    <text x="90" y="286" opacity="0">    '-.__.-'<animate attributeName="opacity" values="0;1" begin="2.6s" dur=".4s" fill="freeze"/></text>
-    <text x="90" y="303" opacity="0"> [ SECURITY ]<animate attributeName="opacity" values="0;1" begin="2.9s" dur=".4s" fill="freeze"/></text>
-  </g>
-</g>
+<br><br>
 
-<!-- scanline sweep -->
-<rect x="50" y="120" width="410" height="3" fill="#22D3EE" opacity=".18"><animate attributeName="y" values="120;390;120" dur="4.5s" repeatCount="indefinite"/></rect>
+<a href="https://sudheer-infosec.github.io/">
+<img src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<text x="70" y="438" font-family="monospace" font-size="12" fill="#94A3B8">$ whoami</text>
-<text x="70" y="460" font-family="monospace" font-size="15" font-weight="700" fill="#F8FAFC">cybersecurity_student</text>
-<text x="70" y="488" font-family="monospace" font-size="12" fill="#94A3B8">$ status</text>
-<text x="70" y="510" font-family="monospace" font-size="14" fill="#22D3EE">SOC / DFIR / SECURITY RESEARCH</text>
-<text x="70" y="538" font-family="monospace" font-size="12" fill="#94A3B8">$ _</text>
-<rect x="88" y="526" width="7" height="14" fill="#22D3EE"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
-</g>
+<a href="https://www.linkedin.com/in/singuru-sudheer-b4916b345">
+<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<!-- RIGHT: terminal / info -->
-<g>
-<rect x="500" y="48" width="632" height="514" rx="22" fill="#0F172A" fill-opacity=".9" stroke="rgba(255,255,255,.10)"/>
-<circle cx="528" cy="73" r="5" fill="#7C3AED"/><circle cx="545" cy="73" r="5" fill="#22D3EE"/><circle cx="562" cy="73" r="5" fill="#10B981"/>
-<text x="585" y="78" font-family="monospace" font-size="12" fill="#94A3B8">README.md</text>
-<line x1="500" y1="96" x2="1132" y2="96" stroke="rgba(255,255,255,.08)"/>
+<a href="mailto:singurusudheer33@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<text x="535" y="137" font-family="Inter,Arial,sans-serif" font-size="16" fill="#94A3B8" opacity="0">Hi 👋<animate attributeName="opacity" values="0;1" begin=".3s" dur=".7s" fill="freeze"/></text>
-<text x="535" y="175" font-family="Inter,Arial,sans-serif" font-size="31" font-weight="800" fill="#F8FAFC" opacity="0">I'm <tspan fill="url(#accentD)">Singuru Sudheer</tspan><animate attributeName="opacity" values="0;1" begin=".8s" dur=".7s" fill="freeze"/></text>
+<a href="https://github.com/sudheer-infosec">
+<img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<!-- rotating typed role line -->
-<g font-family="monospace" font-size="13" fill="#22D3EE">
-  <text x="535" y="207">&gt; <tspan id="role1">Cybersecurity Student</tspan></text>
-</g>
-<g font-family="monospace" font-size="13" fill="#22D3EE" opacity="0">
-  <text x="535" y="207">&gt; SOC Analyst<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.01;0.06;0.24;0.25" begin="0s" dur="16s" repeatCount="indefinite"/></text>
-</g>
-<g font-family="monospace" font-size="13" fill="#22D3EE" opacity="0">
-  <text x="535" y="207">&gt; Threat Hunter<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.26;0.31;0.49;0.50" begin="0s" dur="16s" repeatCount="indefinite"/></text>
-</g>
-<g font-family="monospace" font-size="13" fill="#22D3EE" opacity="0">
-  <text x="535" y="207">&gt; DFIR Enthusiast<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.51;0.56;0.74;0.75" begin="0s" dur="16s" repeatCount="indefinite"/></text>
-</g>
-<g font-family="monospace" font-size="13" fill="#22D3EE" opacity="0">
-  <text x="535" y="207">&gt; Ethical Hacker<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.76;0.81;0.99;1" begin="0s" dur="16s" repeatCount="indefinite"/></text>
-</g>
-<g font-family="monospace" font-size="13" fill="#22D3EE" opacity="1">
-  <text x="535" y="207">&gt; Cybersecurity Student<animate attributeName="opacity" values="1;0" keyTimes="0;0.01" begin="0s" dur="16s" repeatCount="indefinite"/></text>
-</g>
-<rect x="770" y="197" width="7" height="13" fill="#22D3EE"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+<br><br>
 
-<g font-family="Inter,Arial,sans-serif" font-size="13" fill="#94A3B8">
-<text x="535" y="242" opacity="0">📍 Location <tspan x="680" fill="#F8FAFC">India</tspan><animate attributeName="opacity" values="0;1" begin="1.4s" dur=".6s" fill="freeze"/></text>
-<text x="535" y="266" opacity="0">🎓 Education <tspan x="680" fill="#F8FAFC">B.Sc. Computer Science</tspan><animate attributeName="opacity" values="0;1" begin="1.8s" dur=".6s" fill="freeze"/></text>
-<text x="535" y="290" opacity="0">🎯 Current Focus <tspan x="680" fill="#F8FAFC">SOC • DFIR • Threat Detection</tspan><animate attributeName="opacity" values="0;1" begin="2.2s" dur=".6s" fill="freeze"/></text>
-<text x="535" y="314" opacity="0">🌐 Portfolio <tspan x="680" fill="#22D3EE">sudheer-infosec.github.io</tspan><animate attributeName="opacity" values="0;1" begin="2.6s" dur=".6s" fill="freeze"/></text>
-<text x="535" y="338" opacity="0">✉ Email <tspan x="680" fill="#22D3EE">singurusudheer33@gmail.com</tspan><animate attributeName="opacity" values="0;1" begin="3.0s" dur=".6s" fill="freeze"/></text>
-</g>
+<img src="https://komarev.com/ghpvc/?username=sudheer-infosec&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
 
-<text x="535" y="366" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" fill="#F8FAFC">SKILLS</text>
-<g id="pillsD" font-family="Inter,Arial,sans-serif" font-size="12" fill="#F8FAFC">
-<g><rect x="535" y="378" width="72" height="28" rx="14" fill="#111827" stroke="#7C3AED" stroke-opacity=".4"/><text x="571" y="397" text-anchor="middle">React</text><animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3s" begin="0s" repeatCount="indefinite" additive="sum"/></g>
-<g><rect x="615" y="378" width="82" height="28" rx="14" fill="#111827" stroke="#7C3AED" stroke-opacity=".4"/><text x="656" y="397" text-anchor="middle">Next.js</text><animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3.5s" begin=".1s" repeatCount="indefinite" additive="sum"/></g>
-<g><rect x="705" y="378" width="86" height="28" rx="14" fill="#111827" stroke="#7C3AED" stroke-opacity=".4"/><text x="748" y="397" text-anchor="middle">Node.js</text><animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="4s" begin=".2s" repeatCount="indefinite" additive="sum"/></g>
-<g><rect x="799" y="378" width="98" height="28" rx="14" fill="#111827" stroke="#7C3AED" stroke-opacity=".4"/><text x="848" y="397" text-anchor="middle">TypeScript</text><animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="4.5s" begin=".3s" repeatCount="indefinite" additive="sum"/></g>
-<g><rect x="905" y="378" width="90" height="28" rx="14" fill="#111827" stroke="#7C3AED" stroke-opacity=".4"/><text x="950" y="397" text-anchor="middle">Tailwind</text><animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3.2s" begin=".4s" repeatCount="indefinite" additive="sum"/></g>
-<g><rect x="1003" y="378" width="80" height="28" rx="14" fill="#111827" stroke="#7C3AED" stroke-opacity=".4"/><text x="1043" y="397" text-anchor="middle">Python</text><animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3.8s" begin=".5s" repeatCount="indefinite" additive="sum"/></g>
-<g><rect x="535" y="414" width="80" height="28" rx="14" fill="#111827" stroke="#7C3AED" stroke-opacity=".4"/><text x="575" y="433" text-anchor="middle">Docker</text><animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="4.1s" begin=".6s" repeatCount="indefinite" additive="sum"/></g>
-<g><rect x="623" y="414" width="94" height="28" rx="14" fill="#111827" stroke="#7C3AED" stroke-opacity=".4"/><text x="670" y="433" text-anchor="middle">Postgres</text><animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3.6s" begin=".7s" repeatCount="indefinite" additive="sum"/></g>
-<g><rect x="725" y="414" width="66" height="28" rx="14" fill="#111827" stroke="#7C3AED" stroke-opacity=".4"/><text x="758" y="433" text-anchor="middle">AWS</text><animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3.9s" begin=".8s" repeatCount="indefinite" additive="sum"/></g>
-<g><rect x="799" y="414" width="60" height="28" rx="14" fill="#111827" stroke="#7C3AED" stroke-opacity=".4"/><text x="829" y="433" text-anchor="middle">Git</text><animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="3.3s" begin=".9s" repeatCount="indefinite" additive="sum"/></g>
-<g><rect x="867" y="414" width="72" height="28" rx="14" fill="#111827" stroke="#7C3AED" stroke-opacity=".4"/><text x="903" y="433" text-anchor="middle">Figma</text><animateTransform attributeName="transform" type="scale" values="1;1.04;1" dur="4.3s" begin="1.0s" repeatCount="indefinite" additive="sum"/></g>
-</g>
+<img src="https://img.shields.io/github/followers/sudheer-infosec?style=for-the-badge&color=7C3AED&label=FOLLOWERS"/>
 
-<g transform="translate(535,478)" fill="none" stroke="url(#accentD)" stroke-width="1.7">
-<circle cx="18" cy="18" r="17"/><circle cx="66" cy="18" r="17"/><circle cx="114" cy="18" r="17"/><circle cx="162" cy="18" r="17"/>
-<text x="18" y="22" text-anchor="middle" stroke="none" fill="#F8FAFC" font-family="Arial" font-size="12" font-weight="700">GH</text>
-<text x="66" y="22" text-anchor="middle" stroke="none" fill="#F8FAFC" font-family="Arial" font-size="11" font-weight="700">in</text>
-<text x="114" y="22" text-anchor="middle" stroke="none" fill="#F8FAFC" font-family="Arial" font-size="11" font-weight="700">X</text>
-<text x="162" y="22" text-anchor="middle" stroke="none" fill="#F8FAFC" font-family="Arial" font-size="10" font-weight="700">WEB</text>
-</g>
-<text x="535" y="536" font-family="monospace" font-size="11" fill="#94A3B8">Learn → Practice → Build → Document → Improve</text>
-</g>
+<img src="https://img.shields.io/github/stars/sudheer-infosec?style=for-the-badge&color=4F46E5&label=STARS"/>
 
-<!-- shimmer, noise, reflection -->
-<rect x="28" y="28" width="1124" height="150" rx="28" fill="white" opacity=".025">
-<animateTransform attributeName="transform" type="translate" values="-900 0;1100 0" dur="9s" repeatCount="indefinite"/>
-</rect>
-<rect width="1180" height="610" filter="url(#noiseD)" pointer-events="none"/>
-<rect x="24" y="24" width="1132" height="562" rx="30" fill="none" stroke="url(#accentD)" stroke-width="1" stroke-dasharray="80 1800" opacity=".55">
-<animate attributeName="stroke-dashoffset" values="0;-1880" dur="7s" repeatCount="indefinite"/>
-</rect>
-<line x1="24" y1="108" x2="1156" y2="108" stroke="rgba(255,255,255,.10)"/>
-</g>
-</svg>
+</div>
+
+---
+
+# About Me
+
+I am a **Cybersecurity-focused Computer Science student** building practical expertise across **Security Operations, Threat Detection, Incident Response, Digital Forensics, Network Security, Ethical Hacking, and Cyber Investigation**.
+
+My approach to cybersecurity is hands-on:
+
+> **Don't just watch tutorials. Build labs. Break things ethically. Analyze what happened. Fix it. Document it.**
+
+I focus on building realistic security laboratories, investigating security events, analyzing digital evidence, documenting technical findings, and developing cybersecurity tools.
+
+### Core Focus
+
+- Security Operations Center (SOC)
+- SIEM & Log Analysis
+- Threat Detection
+- Incident Response
+- Digital Forensics & DFIR
+- Network Security
+- Ethical Hacking
+- Vulnerability Assessment
+- Malware Investigation
+- Linux & Windows Security
+- Security Automation
+- Cybercrime Investigation Concepts
+
+### Open To
+
+- Cybersecurity Internships
+- SOC Analyst Opportunities
+- DFIR Opportunities
+- Security Research
+- Cybersecurity Projects
+- Open Source Collaboration
+
+---
+
+# Tech Stack
+
+## Security Platforms
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Wazuh-6366F1?style=for-the-badge&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-4F46E5?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Suricata-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-312E81?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-6366F1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-4F46E5?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-7C3AED?style=for-the-badge&logo=metasploit&logoColor=white"/>
+
+</div>
+
+## DFIR & Threat Investigation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Volatility-6366F1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/YARA-4F46E5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sysmon-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Timesketch-312E81?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Autopsy-6366F1?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+## Programming & Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,c,cpp,java,linux,git,github,vscode,html,css,js,nodejs&theme=dark"/>
+
+</div>
+
+---
+
+# Cybersecurity Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Practical Focus |
+|---|---|---|
+| SOC Operations | Intermediate | Alert triage, monitoring and investigation |
+| SIEM | Intermediate | Wazuh, Splunk and log correlation |
+| Threat Detection | Intermediate | Detection rules and behavioral analysis |
+| Incident Response | Intermediate | Investigation and response workflows |
+| Digital Forensics | Intermediate | Memory, disk and artifact analysis |
+| Network Security | Intermediate | Nmap, Wireshark and Suricata |
+| Ethical Hacking | Intermediate | Reconnaissance and security assessment |
+| Malware Analysis | Beginner–Intermediate | IOC and behavioral investigation |
+| Linux Security | Intermediate | Linux administration and monitoring |
+| Windows Security | Intermediate | Sysmon, PowerShell and event analysis |
+| Security Automation | Beginner–Intermediate | Python security tooling |
+| Threat Intelligence | Beginner–Intermediate | IOC analysis and research |
+
+</div>
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>01 — Wazuh SOC Detection Lab</b></summary>
+
+### Wazuh SOC Detection & Monitoring Environment
+
+A practical SOC laboratory focused on endpoint monitoring, security event collection, detection engineering and incident investigation.
+
+| Category | Details |
+|---|---|
+| **Stack** | Wazuh, Linux, Windows Server, Sysmon, Suricata, Kali |
+| **Scale** | Multi-endpoint security monitoring lab |
+| **Performance** | Real-time security event collection |
+| **Security** | Authentication, privilege, PowerShell and file-integrity monitoring |
+| **Impact** | Hands-on SOC investigation experience |
+| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
+
+### Detection Coverage
+
+- SSH invalid-user detection
+- Privilege monitoring
+- Critical file monitoring
+- PowerShell activity
+- Windows Sysmon telemetry
+- Suricata network alerts
+- Security event correlation
+- SOC alert investigation
+
+</details>
+
+<details>
+<summary><b>02 — Zeus Malware Hunt Lab</b></summary>
+
+### Malware Investigation & Threat Hunting Laboratory
+
+A controlled cybersecurity laboratory focused on malware investigation concepts, indicators of compromise and threat-hunting workflows.
+
+| Category | Details |
+|---|---|
+| **Stack** | Kali Linux, Linux, Windows, YARA, Python |
+| **Scale** | Controlled investigation environment |
+| **Performance** | Repeatable investigation workflow |
+| **Security** | IOC discovery and behavioral investigation |
+| **Impact** | Practical malware-analysis learning |
+| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
+
+</details>
+
+<details>
+<summary><b>03 — Cyber Intelligence Toolkit</b></summary>
+
+### Cyber Intelligence & Investigation Toolkit
+
+A cybersecurity toolkit focused on investigation utilities, intelligence workflows and security research.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, Linux and security tooling |
+| **Scale** | Modular cybersecurity toolkit |
+| **Performance** | Automation-oriented workflows |
+| **Security** | Investigation and intelligence support |
+| **Impact** | Practical security automation |
+| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
+
+</details>
+
+<details>
+<summary><b>04 — Digital Forensics Investigation Lab</b></summary>
+
+### Digital Forensics & Evidence Analysis Laboratory
+
+A practical environment for learning digital evidence analysis, timeline investigation and forensic documentation.
+
+| Category | Details |
+|---|---|
+| **Stack** | Linux, Windows, Volatility, Timesketch |
+| **Scale** | Multi-artifact forensic workflow |
+| **Performance** | Structured evidence analysis |
+| **Security** | Evidence-focused investigation |
+| **Impact** | Practical DFIR experience |
+| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
+
+</details>
+
+<details>
+<summary><b>05 — Mobile / Android Forensics</b></summary>
+
+### Mobile Digital Forensics Laboratory
+
+A cybersecurity learning environment focused on Android artifacts and mobile digital investigation methodology.
+
+| Category | Details |
+|---|---|
+| **Stack** | Android, Linux and Digital Forensics |
+| **Scale** | Mobile evidence investigation |
+| **Performance** | Structured artifact analysis |
+| **Security** | Evidence preservation and analysis |
+| **Impact** | Practical mobile-forensics knowledge |
+| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
+
+</details>
+
+<details>
+<summary><b>06 — CustodyGuard</b></summary>
+
+### Digital Evidence Chain-of-Custody Concept
+
+A security project centered around structured evidence records and forensic chain-of-custody workflows.
+
+| Category | Details |
+|---|---|
+| **Stack** | Security Engineering and Digital Forensics |
+| **Scale** | Evidence-management concept |
+| **Performance** | Structured evidence tracking |
+| **Security** | Evidence integrity and accountability |
+| **Impact** | Disciplined forensic workflows |
+| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
+
+</details>
+
+<details>
+<summary><b>07 — Forensic Evidence Platform</b></summary>
+
+### Digital Evidence Investigation Platform
+
+A concept platform for organizing digital evidence, investigation records and forensic workflows.
+
+| Category | Details |
+|---|---|
+| **Stack** | Web Technologies and Cybersecurity |
+| **Scale** | Investigation platform |
+| **Performance** | Structured evidence workflows |
+| **Security** | Evidence-focused architecture |
+| **Impact** | Investigation workflow organization |
+| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
+
+</details>
+
+<details>
+<summary><b>08 — Timesketch Investigation Lab</b></summary>
+
+### Timeline-Based Incident Investigation
+
+A practical investigation workflow focused on timeline analysis and correlation of digital artifacts.
+
+| Category | Details |
+|---|---|
+| **Stack** | Timesketch and DFIR |
+| **Scale** | Multi-artifact timeline analysis |
+| **Performance** | Event correlation |
+| **Security** | Incident investigation |
+| **Impact** | Forensic investigation practice |
+| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
+
+</details>
+
+<details>
+<summary><b>09 — Volatility 3 Forensics</b></summary>
+
+### Memory Forensics Laboratory
+
+A practical memory-forensics environment focused on RAM analysis and investigation workflows.
+
+| Category | Details |
+|---|---|
+| **Stack** | Volatility 3, Python and Linux |
+| **Scale** | Memory-analysis workflow |
+| **Performance** | Structured RAM investigation |
+| **Security** | Memory artifact analysis |
+| **Impact** | Hands-on memory-forensics capability |
+| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
+
+</details>
+
+<details>
+<summary><b>10 — Digital Evidence Toolkit</b></summary>
+
+### Digital Evidence Analysis Toolkit
+
+A collection of utilities and workflows designed around digital evidence investigation and forensic analysis.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, Linux and DFIR |
+| **Scale** | Modular forensic utilities |
+| **Performance** | Repeatable evidence workflows |
+| **Security** | Evidence analysis |
+| **Impact** | Practical DFIR automation |
+| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
+
+</details>
+
+<details>
+<summary><b>11 — CyberTrace Investigation Lab</b></summary>
+
+### CyberTrace — Cybercrime Investigation Education Platform
+
+An educational investigation environment using synthetic case records, correlation workflows and evidence-analysis concepts.
+
+| Category | Details |
+|---|---|
+| **Stack** | Node.js, JavaScript, Cesium and Web Technologies |
+| **Scale** | Interactive investigation platform |
+| **Performance** | Dashboard-based workflow |
+| **Security** | Synthetic investigation data |
+| **Impact** | Cybersecurity investigation education |
+| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
+
+> **Educational Purpose:** Uses synthetic investigation scenarios.
+
+</details>
+
+---
+
+# Experience
+
+### Cybersecurity Student & Independent Security Researcher
+
+**2025 — Present**
+
+Focused on developing practical cybersecurity capability through security laboratories, investigation projects and continuous technical research.
+
+### Scope
+
+- Building SOC monitoring laboratories
+- Practicing SIEM detection and log analysis
+- Studying digital forensics and incident response
+- Developing cybersecurity utilities
+- Researching threat detection
+- Documenting security experiments
+- Building cybersecurity resources
+- Exploring cyber investigation workflows
+
+**Skills:** `SOC` `SIEM` `DFIR` `Threat Detection` `Linux` `Windows` `Python` `Network Security`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Cybersecurity Portfolio | Built a dedicated cybersecurity portfolio ecosystem |
+| SOC Laboratory | Developed hands-on Wazuh monitoring environment |
+| DFIR Labs | Built practical digital-forensics investigation workflows |
+| Security Projects | Developed multiple cybersecurity-focused projects |
+| Cybersecurity Resources | Curated cybersecurity learning resources |
+| Continuous Learning | Consistently building practical security labs |
+
+</div>
+
+---
+
+# Certifications & Learning
+
+## Security Platforms
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Kali%20Linux-6366F1?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-4F46E5?style=for-the-badge&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-7C3AED?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-312E81?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</div>
+
+## Continuous Learning
+
+- Security Operations
+- SOC Analysis
+- Digital Forensics
+- Incident Response
+- Ethical Hacking
+- Network Security
+- Threat Intelligence
+- Linux Security
+- Windows Security
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sudheer-infosec&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=8B5CF6&icon_color=6366F1" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer-infosec&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=sudheer-infosec&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sudheer-infosec&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheer-infosec&bg_color=0D1117&color=8B5CF6&line=6366F1&point=C4B5FD&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sudheer-infosec/cybersecurity-portfolio/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Cybersecurity:
+
+  Learning:
+    - SOC Operations
+    - SIEM Engineering
+    - Digital Forensics
+    - Incident Response
+    - Threat Detection
+    - Network Security
+
+  Building:
+    - Wazuh SOC Detection Lab
+    - DFIR Investigation Labs
+    - CyberTrace
+    - Cybersecurity Research Tools
+    - Security Documentation
+
+  Exploring:
+    - Threat Intelligence
+    - Malware Analysis
+    - Detection Engineering
+    - Digital Evidence Analysis
+    - Cybercrime Investigation
+
+  Open_To:
+    - Cybersecurity Internships
+    - SOC Analyst Opportunities
+    - DFIR Opportunities
+    - Security Research
+    - Open Source Collaboration
