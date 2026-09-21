@@ -1,506 +1,169 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4F46E5,100:7C3AED&height=180&section=header&text=SINGURU%20SUDHEER&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=CYBERSECURITY%20%7C%20SOC%20%7C%20DFIR%20%7C%20ETHICAL%20HACKING&descAlignY=58&descSize=16" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Cybersecurity+Student+%7C+Ethical+Hacker;SOC+Analyst+%7C+Threat+Detection;Digital+Forensics+%7C+Incident+Response;Security+Research+%7C+Cyber+Investigation;Learn+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Document+%E2%86%92+Improve" alt="Typing SVG"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/B.Sc.-Computer%20Science-6366F1?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-Specialization-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-Andhra%20Pradesh-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br><br>
-
-<a href="https://sudheer-infosec.github.io/">
-<img src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/singuru-sudheer-b4916b345">
-<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:singurusudheer33@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="tel:+918142455896">
-<img src="https://img.shields.io/badge/CONTACT-312E81?style=for-the-badge&logo=phone&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sudheer-infosec">
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sudheer-infosec&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
-
-<img src="https://img.shields.io/github/followers/sudheer-infosec?style=for-the-badge&color=7C3AED&label=FOLLOWERS"/>
-
-<img src="https://img.shields.io/github/stars/sudheer-infosec?style=for-the-badge&color=4F46E5&label=STARS"/>
-
-</div>
-
----
-
-# About Me
-
-I am a **Cybersecurity-focused Computer Science student** building practical expertise across **Security Operations, Threat Detection, Incident Response, Digital Forensics, Network Security, Ethical Hacking, and Cyber Investigation**.
-
-My approach to cybersecurity is hands-on:
-
-> **Don't just watch tutorials. Build labs. Break things ethically. Analyze what happened. Fix it. Document it.**
-
-I focus on building realistic security laboratories, investigating security events, analyzing digital evidence, documenting technical findings, and developing cybersecurity tools.
-
-### Core Focus
-
-- Security Operations Center (SOC)
-- SIEM & Log Analysis
-- Threat Detection
-- Incident Response
-- Digital Forensics & DFIR
-- Network Security
-- Ethical Hacking
-- Vulnerability Assessment
-- Malware Investigation
-- Linux & Windows Security
-- Security Automation
-- Cybercrime Investigation Concepts
-
-### Open To
-
-- Cybersecurity Internships
-- SOC Analyst Opportunities
-- DFIR Opportunities
-- Security Research
-- Cybersecurity Projects
-- Open Source Collaboration
-
----
-
-# Tech Stack
-
-## Security Platforms
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Wazuh-6366F1?style=for-the-badge&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/Splunk-4F46E5?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Suricata-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-312E81?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-6366F1?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-4F46E5?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-7C3AED?style=for-the-badge&logo=metasploit&logoColor=white"/>
-
-</div>
-
-## DFIR & Threat Investigation
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Volatility-6366F1?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/YARA-4F46E5?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sysmon-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Timesketch-312E81?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Autopsy-6366F1?style=for-the-badge&logoColor=white"/>
-
-</div>
-
-## Programming & Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,c,cpp,java,linux,git,github,vscode,html,css,js,nodejs&theme=dark"/>
-
-</div>
-
----
-
-# Cybersecurity Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Practical Focus |
-|---|---|---|
-| SOC Operations | Intermediate | Alert triage, monitoring and investigation |
-| SIEM | Intermediate | Wazuh, Splunk and log correlation |
-| Threat Detection | Intermediate | Detection rules and behavioral analysis |
-| Incident Response | Intermediate | Investigation and response workflows |
-| Digital Forensics | Intermediate | Memory, disk and artifact analysis |
-| Network Security | Intermediate | Nmap, Wireshark and Suricata |
-| Ethical Hacking | Intermediate | Reconnaissance and security assessment |
-| Malware Analysis | Beginner–Intermediate | IOC and behavioral investigation |
-| Linux Security | Intermediate | Linux administration and monitoring |
-| Windows Security | Intermediate | Sysmon, PowerShell and event analysis |
-| Security Automation | Beginner–Intermediate | Python security tooling |
-| Threat Intelligence | Beginner–Intermediate | IOC analysis and research |
-
-</div>
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>01 — Wazuh SOC Detection Lab</b></summary>
-
-### Wazuh SOC Detection & Monitoring Environment
-
-A practical SOC laboratory focused on endpoint monitoring, security event collection, detection engineering and incident investigation.
-
-| Category | Details |
-|---|---|
-| **Stack** | Wazuh, Linux, Windows Server, Sysmon, Suricata, Kali |
-| **Scale** | Multi-endpoint security monitoring lab |
-| **Performance** | Real-time security event collection |
-| **Security** | Authentication, privilege, PowerShell and file-integrity monitoring |
-| **Impact** | Hands-on SOC investigation experience |
-| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
-
-### Detection Coverage
-
-- SSH invalid-user detection
-- Privilege monitoring
-- Critical file monitoring
-- PowerShell activity
-- Windows Sysmon telemetry
-- Suricata network alerts
-- Security event correlation
-- SOC alert investigation
-
-</details>
-
-<details>
-<summary><b>02 — Zeus Malware Hunt Lab</b></summary>
-
-### Malware Investigation & Threat Hunting Laboratory
-
-A controlled cybersecurity laboratory focused on malware investigation concepts, indicators of compromise and threat-hunting workflows.
-
-| Category | Details |
-|---|---|
-| **Stack** | Kali Linux, Linux, Windows, YARA, Python |
-| **Scale** | Controlled investigation environment |
-| **Performance** | Repeatable investigation workflow |
-| **Security** | IOC discovery and behavioral investigation |
-| **Impact** | Practical malware-analysis learning |
-| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
-
-</details>
-
-<details>
-<summary><b>03 — Cyber Intelligence Toolkit</b></summary>
-
-### Cyber Intelligence & Investigation Toolkit
-
-A cybersecurity toolkit focused on investigation utilities, intelligence workflows and security research.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python, Linux and security tooling |
-| **Scale** | Modular cybersecurity toolkit |
-| **Performance** | Automation-oriented workflows |
-| **Security** | Investigation and intelligence support |
-| **Impact** | Practical security automation |
-| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
-
-</details>
-
-<details>
-<summary><b>04 — Digital Forensics Investigation Lab</b></summary>
-
-### Digital Forensics & Evidence Analysis Laboratory
-
-A practical environment for learning digital evidence analysis, timeline investigation and forensic documentation.
-
-| Category | Details |
-|---|---|
-| **Stack** | Linux, Windows, Volatility, Timesketch |
-| **Scale** | Multi-artifact forensic workflow |
-| **Performance** | Structured evidence analysis |
-| **Security** | Evidence-focused investigation |
-| **Impact** | Practical DFIR experience |
-| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
-
-</details>
-
-<details>
-<summary><b>05 — Mobile / Android Forensics</b></summary>
-
-### Mobile Digital Forensics Laboratory
-
-A cybersecurity learning environment focused on Android artifacts and mobile digital investigation methodology.
-
-| Category | Details |
-|---|---|
-| **Stack** | Android, Linux and Digital Forensics |
-| **Scale** | Mobile evidence investigation |
-| **Performance** | Structured artifact analysis |
-| **Security** | Evidence preservation and analysis |
-| **Impact** | Practical mobile-forensics knowledge |
-| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
-
-</details>
-
-<details>
-<summary><b>06 — CustodyGuard</b></summary>
-
-### Digital Evidence Chain-of-Custody Concept
-
-A security project centered around structured evidence records and forensic chain-of-custody workflows.
-
-| Category | Details |
-|---|---|
-| **Stack** | Security Engineering and Digital Forensics |
-| **Scale** | Evidence-management concept |
-| **Performance** | Structured evidence tracking |
-| **Security** | Evidence integrity and accountability |
-| **Impact** | Disciplined forensic workflows |
-| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
-
-</details>
-
-<details>
-<summary><b>07 — Forensic Evidence Platform</b></summary>
-
-### Digital Evidence Investigation Platform
-
-A concept platform for organizing digital evidence, investigation records and forensic workflows.
-
-| Category | Details |
-|---|---|
-| **Stack** | Web Technologies and Cybersecurity |
-| **Scale** | Investigation platform |
-| **Performance** | Structured evidence workflows |
-| **Security** | Evidence-focused architecture |
-| **Impact** | Investigation workflow organization |
-| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
-
-</details>
-
-<details>
-<summary><b>08 — Timesketch Investigation Lab</b></summary>
-
-### Timeline-Based Incident Investigation
-
-A practical investigation workflow focused on timeline analysis and correlation of digital artifacts.
-
-| Category | Details |
-|---|---|
-| **Stack** | Timesketch and DFIR |
-| **Scale** | Multi-artifact timeline analysis |
-| **Performance** | Event correlation |
-| **Security** | Incident investigation |
-| **Impact** | Forensic investigation practice |
-| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
-
-</details>
-
-<details>
-<summary><b>09 — Volatility 3 Forensics</b></summary>
-
-### Memory Forensics Laboratory
-
-A practical memory-forensics environment focused on RAM analysis and investigation workflows.
-
-| Category | Details |
-|---|---|
-| **Stack** | Volatility 3, Python and Linux |
-| **Scale** | Memory-analysis workflow |
-| **Performance** | Structured RAM investigation |
-| **Security** | Memory artifact analysis |
-| **Impact** | Hands-on memory-forensics capability |
-| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
-
-</details>
-
-<details>
-<summary><b>10 — Digital Evidence Toolkit</b></summary>
-
-### Digital Evidence Analysis Toolkit
-
-A collection of utilities and workflows designed around digital evidence investigation and forensic analysis.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python, Linux and DFIR |
-| **Scale** | Modular forensic utilities |
-| **Performance** | Repeatable evidence workflows |
-| **Security** | Evidence analysis |
-| **Impact** | Practical DFIR automation |
-| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
-
-</details>
-
-<details>
-<summary><b>11 — CyberTrace Investigation Lab</b></summary>
-
-### CyberTrace — Cybercrime Investigation Education Platform
-
-An educational investigation environment using synthetic case records, correlation workflows and evidence-analysis concepts.
-
-| Category | Details |
-|---|---|
-| **Stack** | Node.js, JavaScript, Cesium and Web Technologies |
-| **Scale** | Interactive investigation platform |
-| **Performance** | Dashboard-based workflow |
-| **Security** | Synthetic investigation data |
-| **Impact** | Cybersecurity investigation education |
-| **Repository** | [GitHub](https://github.com/sudheer-infosec/cybersecurity-portfolio) |
-
-> **Educational Purpose:** Uses synthetic investigation scenarios.
-
-</details>
-
----
-
-# Experience
-
-### Cybersecurity Student & Independent Security Researcher
-
-**2025 — Present**
-
-Focused on developing practical cybersecurity capability through security laboratories, investigation projects and continuous technical research.
-
-### Scope
-
-- Building SOC monitoring laboratories
-- Practicing SIEM detection and log analysis
-- Studying digital forensics and incident response
-- Developing cybersecurity utilities
-- Researching threat detection
-- Documenting security experiments
-- Building cybersecurity resources
-- Exploring cyber investigation workflows
-
-**Skills:** `SOC` `SIEM` `DFIR` `Threat Detection` `Linux` `Windows` `Python` `Network Security`
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Cybersecurity Portfolio | Built a dedicated cybersecurity portfolio ecosystem |
-| SOC Laboratory | Developed hands-on Wazuh monitoring environment |
-| DFIR Labs | Built practical digital-forensics investigation workflows |
-| Security Projects | Developed multiple cybersecurity-focused projects |
-| Cybersecurity Resources | Curated cybersecurity learning resources |
-| Continuous Learning | Consistently building practical security labs |
-
-</div>
-
----
-
-# Certifications & Learning
-
-## Security Platforms
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Kali%20Linux-6366F1?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wazuh-4F46E5?style=for-the-badge&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/Splunk-7C3AED?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-312E81?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</div>
-
-## Continuous Learning
-
-- Security Operations
-- SOC Analysis
-- Digital Forensics
-- Incident Response
-- Ethical Hacking
-- Network Security
-- Threat Intelligence
-- Linux Security
-- Windows Security
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sudheer-infosec&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=8B5CF6&icon_color=6366F1" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer-infosec&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=sudheer-infosec&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sudheer-infosec&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheer-infosec&bg_color=0D1117&color=8B5CF6&line=6366F1&point=C4B5FD&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sudheer-infosec/cybersecurity-portfolio/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-Cybersecurity:
-
-  Learning:
-    - SOC Operations
-    - SIEM Engineering
-    - Digital Forensics
-    - Incident Response
-    - Threat Detection
-    - Network Security
-
-  Building:
-    - Wazuh SOC Detection Lab
-    - DFIR Investigation Labs
-    - CyberTrace
-    - Cybersecurity Research Tools
-    - Security Documentation
-
-  Exploring:
-    - Threat Intelligence
-    - Malware Analysis
-    - Detection Engineering
-    - Digital Evidence Analysis
-    - Cybercrime Investigation
-
-  Open_To:
-    - Cybersecurity Internships
-    - SOC Analyst Opportunities
-    - DFIR Opportunities
-    - Security Research
-    - Open Source Collaboration
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Singuru Sudheer cybersecurity GitHub profile">
+
+<defs>
+  <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#7C3AED">
+      <animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="8s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="50%" stop-color="#22D3EE">
+      <animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="8s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#10B981">
+      <animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="8s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+  <radialGradient id="glow1">
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity=".32"/>
+    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow2">
+    <stop offset="0%" stop-color="#7C3AED" stop-opacity=".24"/>
+    <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="10" result="blur"/>
+    <feColorMatrix in="blur" type="matrix" values="0 0 0 0 .06 0 0 0 0 .10 0 0 0 0 .20 0 0 0 .55 0"/>
+    <feBlend in="SourceGraphic" mode="normal"/>
+  </filter>
+  <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="noise">
+    <feTurbulence type="fractalNoise" baseFrequency=".75" numOctaves="2" seed="8"/>
+    <feColorMatrix type="saturate" values="0"/>
+    <feComponentTransfer><feFuncA type="table" tableValues="0 .035"/></feComponentTransfer>
+  </filter>
+  <clipPath id="clip"><rect width="1180" height="610" rx="30"/></clipPath>
+  <mask id="asciiMask">
+    <rect width="1180" height="610" fill="black"/>
+    <g fill="white" font-family="monospace" font-size="15" font-weight="700">
+      <text x="55" y="215">             .-''''-.</text>
+      <text x="55" y="232">           .'  .--.  '.</text>
+      <text x="55" y="249">          /   /    \   \</text>
+      <text x="55" y="266">         ;   ;      ;   ;</text>
+      <text x="55" y="283">         |   |      |   |</text>
+      <text x="55" y="300">         ;   ;      ;   ;</text>
+      <text x="55" y="317">          \   \____/   /</text>
+      <text x="55" y="334">           '.        .'</text>
+      <text x="55" y="351">             '-.__.-'</text>
+      <text x="55" y="368">          CYBERSECURITY</text>
+    </g>
+  </mask>
+</defs>
+
+<g clip-path="url(#clip)">
+<rect width="1180" height="610" fill="#030712"/>
+<circle cx="120" cy="120" r="260" fill="url(#glow1)"><animate attributeName="cx" values="120;210;120" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="1060" cy="470" r="300" fill="url(#glow2)"><animate attributeName="cx" values="1060;980;1060" dur="14s" repeatCount="indefinite"/></circle>
+
+<g opacity=".9">
+<circle cx="720" cy="80" r="2" fill="#22D3EE"><animate attributeName="cy" values="80;100;80" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="1020" cy="150" r="1.7" fill="#10B981"><animate attributeName="cy" values="150;175;150" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="680" cy="520" r="1.8" fill="#7C3AED"><animate attributeName="cx" values="680;700;680" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="1080" cy="320" r="1.5" fill="#22D3EE"><animate attributeName="cy" values="320;295;320" dur="3.8s" repeatCount="indefinite"/></circle>
+</g>
+
+<rect x="24" y="24" width="1132" height="562" rx="30" fill="#0F172A" fill-opacity=".78" stroke="rgba(255,255,255,.10)" filter="url(#shadow)"/>
+
+<!-- LEFT -->
+<g>
+<rect x="48" y="48" width="425" height="514" rx="22" fill="#030712" fill-opacity=".72" stroke="rgba(255,255,255,.10)"/>
+<circle cx="75" cy="73" r="5" fill="#7C3AED"/><circle cx="92" cy="73" r="5" fill="#22D3EE"/><circle cx="109" cy="73" r="5" fill="#10B981"/>
+<text x="130" y="78" font-family="monospace" font-size="12" fill="#94A3B8">~/sudheer/security</text>
+
+<g mask="url(#asciiMask)">
+<rect x="50" y="185" width="410" height="205" fill="url(#accent)" filter="url(#softGlow)"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="6s" repeatCount="indefinite"/>
+</g>
+<rect x="50" y="180" width="410" height="3" fill="#22D3EE" opacity=".16"><animate attributeName="y" values="180;395;180" dur="4.5s" repeatCount="indefinite"/></rect>
+
+<text x="70" y="438" font-family="monospace" font-size="12" fill="#94A3B8">$ whoami</text>
+<text x="70" y="460" font-family="monospace" font-size="15" font-weight="700" fill="#F8FAFC">cybersecurity_student</text>
+<text x="70" y="488" font-family="monospace" font-size="12" fill="#94A3B8">$ status</text>
+<text x="70" y="510" font-family="monospace" font-size="14" fill="#22D3EE">SOC / DFIR / SECURITY RESEARCH</text>
+<text x="70" y="538" font-family="monospace" font-size="12" fill="#94A3B8">$ _</text>
+<rect x="88" y="526" width="7" height="14" fill="#22D3EE"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+
+<!-- RIGHT -->
+<g>
+<rect x="500" y="48" width="632" height="514" rx="22" fill="#0F172A" fill-opacity=".9" stroke="rgba(255,255,255,.10)"/>
+<circle cx="528" cy="73" r="5" fill="#7C3AED"/><circle cx="545" cy="73" r="5" fill="#22D3EE"/><circle cx="562" cy="73" r="5" fill="#10B981"/>
+<text x="585" y="78" font-family="monospace" font-size="12" fill="#94A3B8">README.md</text>
+
+<text x="535" y="137" font-family="Inter,Arial,sans-serif" font-size="16" fill="#94A3B8" opacity="0">Hi 👋<animate attributeName="opacity" values="0;1" begin=".3s" dur=".7s" fill="freeze"/></text>
+<text x="535" y="175" font-family="Inter,Arial,sans-serif" font-size="31" font-weight="800" fill="#F8FAFC" opacity="0">I'm <tspan fill="url(#accent)">Singuru Sudheer</tspan><animate attributeName="opacity" values="0;1" begin=".8s" dur=".7s" fill="freeze"/></text>
+<text x="535" y="207" font-family="monospace" font-size="13" fill="#22D3EE">&gt; Cybersecurity Student | Ethical Hacker | SOC Analyst</text>
+
+<g font-family="Inter,Arial,sans-serif" font-size="13" fill="#94A3B8">
+<text x="535" y="242" opacity="0">📍 Location <tspan x="680" fill="#F8FAFC">India</tspan><animate attributeName="opacity" values="0;1" begin="1.4s" dur=".6s" fill="freeze"/></text>
+<text x="535" y="266" opacity="0">🎓 Education <tspan x="680" fill="#F8FAFC">B.Sc. Computer Science</tspan><animate attributeName="opacity" values="0;1" begin="1.8s" dur=".6s" fill="freeze"/></text>
+<text x="535" y="290" opacity="0">🎯 Current Focus <tspan x="680" fill="#F8FAFC">SOC • DFIR • Threat Detection</tspan><animate attributeName="opacity" values="0;1" begin="2.2s" dur=".6s" fill="freeze"/></text>
+<text x="535" y="314" opacity="0">🌐 Portfolio <tspan x="680" fill="#22D3EE">sudheer-infosec.github.io</tspan><animate attributeName="opacity" values="0;1" begin="2.6s" dur=".6s" fill="freeze"/></text>
+<text x="535" y="338" opacity="0">✉ Email <tspan x="680" fill="#22D3EE">singurusudheer33@gmail.com</tspan><animate attributeName="opacity" values="0;1" begin="3.0s" dur=".6s" fill="freeze"/></text>
+<text x="535" y="362" opacity="0">☎ Contact <tspan x="680" fill="#F8FAFC">+91 81424 55896</tspan><animate attributeName="opacity" values="0;1" begin="3.4s" dur=".6s" fill="freeze"/></text>
+</g>
+
+<text x="535" y="390" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" fill="#F8FAFC">SKILLS</text>
+<g>
+<rect x="760" y="335" width="86" height="30" rx="15" fill="#111827" stroke="#7C3AED" stroke-opacity=".35"/>
+<text x="803.0" y="355" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#F8FAFC">Wazuh</text>
+<animateTransform attributeName="transform" type="scale" values="1;1.035;1" dur="3s" begin="0.0s" repeatCount="indefinite" additive="sum"/>
+</g><g>
+<rect x="856" y="335" width="82" height="30" rx="15" fill="#111827" stroke="#7C3AED" stroke-opacity=".35"/>
+<text x="897.0" y="355" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#F8FAFC">Splunk</text>
+<animateTransform attributeName="transform" type="scale" values="1;1.035;1" dur="4s" begin="0.12s" repeatCount="indefinite" additive="sum"/>
+</g><g>
+<rect x="948" y="335" width="102" height="30" rx="15" fill="#111827" stroke="#7C3AED" stroke-opacity=".35"/>
+<text x="999.0" y="355" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#F8FAFC">Wireshark</text>
+<animateTransform attributeName="transform" type="scale" values="1;1.035;1" dur="5s" begin="0.24s" repeatCount="indefinite" additive="sum"/>
+</g><g>
+<rect x="760" y="377" width="82" height="30" rx="15" fill="#111827" stroke="#7C3AED" stroke-opacity=".35"/>
+<text x="801.0" y="397" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#F8FAFC">Python</text>
+<animateTransform attributeName="transform" type="scale" values="1;1.035;1" dur="3s" begin="0.36s" repeatCount="indefinite" additive="sum"/>
+</g><g>
+<rect x="852" y="377" width="78" height="30" rx="15" fill="#111827" stroke="#7C3AED" stroke-opacity=".35"/>
+<text x="891.0" y="397" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#F8FAFC">Linux</text>
+<animateTransform attributeName="transform" type="scale" values="1;1.035;1" dur="4s" begin="0.48s" repeatCount="indefinite" additive="sum"/>
+</g><g>
+<rect x="942" y="377" width="70" height="30" rx="15" fill="#111827" stroke="#7C3AED" stroke-opacity=".35"/>
+<text x="977.0" y="397" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#F8FAFC">DFIR</text>
+<animateTransform attributeName="transform" type="scale" values="1;1.035;1" dur="5s" begin="0.6s" repeatCount="indefinite" additive="sum"/>
+</g><g>
+<rect x="760" y="419" width="76" height="30" rx="15" fill="#111827" stroke="#7C3AED" stroke-opacity=".35"/>
+<text x="798.0" y="439" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#F8FAFC">Nmap</text>
+<animateTransform attributeName="transform" type="scale" values="1;1.035;1" dur="3s" begin="0.72s" repeatCount="indefinite" additive="sum"/>
+</g><g>
+<rect x="844" y="419" width="82" height="30" rx="15" fill="#111827" stroke="#7C3AED" stroke-opacity=".35"/>
+<text x="885.0" y="439" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#F8FAFC">Sysmon</text>
+<animateTransform attributeName="transform" type="scale" values="1;1.035;1" dur="4s" begin="0.84s" repeatCount="indefinite" additive="sum"/>
+</g><g>
+<rect x="936" y="419" width="72" height="30" rx="15" fill="#111827" stroke="#7C3AED" stroke-opacity=".35"/>
+<text x="972.0" y="439" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#F8FAFC">YARA</text>
+<animateTransform attributeName="transform" type="scale" values="1;1.035;1" dur="5s" begin="0.96s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(535,515)" fill="none" stroke="url(#accent)" stroke-width="1.7">
+<circle cx="18" cy="18" r="17"/><circle cx="66" cy="18" r="17"/><circle cx="114" cy="18" r="17"/><circle cx="162" cy="18" r="17"/>
+<text x="18" y="22" text-anchor="middle" stroke="none" fill="#F8FAFC" font-family="Arial" font-size="12" font-weight="700">GH</text>
+<text x="66" y="22" text-anchor="middle" stroke="none" fill="#F8FAFC" font-family="Arial" font-size="11" font-weight="700">in</text>
+<text x="114" y="22" text-anchor="middle" stroke="none" fill="#F8FAFC" font-family="Arial" font-size="11" font-weight="700">X</text>
+<text x="162" y="22" text-anchor="middle" stroke="none" fill="#F8FAFC" font-family="Arial" font-size="10" font-weight="700">WEB</text>
+</g>
+<text x="760" y="553" font-family="monospace" font-size="11" fill="#94A3B8">Learn → Practice → Build → Document → Improve</text>
+</g>
+
+<!-- shimmer, noise, reflection -->
+<rect x="28" y="28" width="1124" height="150" rx="28" fill="white" opacity=".025">
+<animateTransform attributeName="transform" type="translate" values="-900 0;1100 0" dur="9s" repeatCount="indefinite"/>
+</rect>
+<rect width="1180" height="610" filter="url(#noise)" pointer-events="none"/>
+<rect x="24" y="24" width="1132" height="562" rx="30" fill="none" stroke="url(#accent)" stroke-width="1" stroke-dasharray="80 1800" opacity=".55">
+<animate attributeName="stroke-dashoffset" values="0;-1880" dur="7s" repeatCount="indefinite"/>
+</rect>
+<line x1="24" y1="108" x2="1156" y2="108" stroke="rgba(255,255,255,.10)"/>
+</g>
+</svg>
+```
