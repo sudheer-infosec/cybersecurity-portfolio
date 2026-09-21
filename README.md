@@ -26,8 +26,12 @@
 <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="tel:+918142455896">
+<img src="https://img.shields.io/badge/CONTACT-312E81?style=for-the-badge&logo=phone&logoColor=white"/>
+</a>
+
 <a href="https://github.com/sudheer-infosec">
-<img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -431,7 +435,7 @@ Focused on developing practical cybersecurity capability through security labora
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=sudheer-infosec&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com?user=sudheer-infosec&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6"/>
 
 </div>
 
@@ -461,7 +465,7 @@ Focused on developing practical cybersecurity capability through security labora
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sudheer-infosec/cybersecurity-portfolio/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/sudheer-infosec/cybersecurity-portfolio/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
