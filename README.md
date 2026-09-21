@@ -500,7 +500,3 @@ Cybersecurity:
     - DFIR Opportunities
     - Security Research
     - Open Source Collaboration
-Email : singurusudheer33@gmail.com
-Contact No : 8142455896
-Linkedin : https://www.linkedin.com/in/singuru-sudheer-b4916b345
-Portfolio : https://sudheer-infosec.github.io/
