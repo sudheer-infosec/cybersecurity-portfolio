@@ -578,36 +578,25 @@ Focused on building practical cybersecurity capability through security laborato
 </div>
 
 ---
-
 # Current Focus
 
-```yaml
-Cybersecurity:
-  Learning:
-    - SOC Operations
-    - SIEM Engineering
-    - Digital Forensics
-    - Incident Response
-    - Threat Detection
-    - Network Security
+<div align="center">
 
-  Building:
-    - Wazuh SOC Labs
-    - DFIR Investigation Labs
-    - CyberTrace
-    - Cybersecurity Research Tools
-    - Security Documentation
+|  🧠 **LEARNING**  |     🛠️ **BUILDING**    |      🔎 **EXPLORING**     |       🎯 **OPEN TO**      |
+| :---------------: | :---------------------: | :-----------------------: | :-----------------------: |
+|   SOC Operations  |      Wazuh SOC Labs     |    Threat Intelligence    | Cybersecurity Internships |
+|  SIEM Engineering | DFIR Investigation Labs |      Malware Analysis     | SOC Analyst Opportunities |
+| Digital Forensics |        CyberTrace       |   Detection Engineering   |     DFIR Opportunities    |
+| Incident Response | Security Research Tools | Digital Evidence Analysis |     Security Research     |
+|  Threat Detection |  Security Documentation |  Cybercrime Investigation | Open Source Collaboration |
+|  Network Security |                         |                           |                           |
 
-  Exploring:
-    - Threat Intelligence
-    - Malware Analysis
-    - Detection Engineering
-    - Digital Evidence Analysis
-    - Cybercrime Investigation
+</div>
 
-  Open_To:
-    - Cybersecurity Internships
-    - SOC Analyst Opportunities
-    - DFIR Opportunities
-    - Security Research
-    - Open Source Collaboration
+<br>
+
+<div align="center">
+
+`LEARN` → `PRACTICE` → `BUILD` → `DOCUMENT` → `IMPROVE`
+
+</div>
